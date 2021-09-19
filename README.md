@@ -8,7 +8,7 @@ O intuito dos desafios é fazer com que os membros experimentem novas linguagens
 
 Com isso, estamos disponibilizando aqui na nossa comunidade do GitHub, todas os desafios das tecs da semana que tivemos até então e algumas informações extras para que vocês possam estar buscando e se aprofundando.
 
-### Techs ⚙️
+### Techs 📎
 
 * [Discord.js](https://discord.js.org/#/)
 * [MySQL](https://www.mysql.com)
