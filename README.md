@@ -12,6 +12,7 @@ Com isso, estamos disponibilizando aqui na nossa comunidade do GitHub, todas os 
 
 * [Discord.js](https://discord.js.org/#/)
 * [MySQL](https://www.mysql.com)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## License
 
