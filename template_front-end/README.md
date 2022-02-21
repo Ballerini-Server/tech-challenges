@@ -22,10 +22,9 @@ Explicar que também haverá um desafio extra ou algo do tipo aqui.
 Você deverá utilizar o nosso [Design no Figma](https://figma.com/) para desenvolver a(s) página(s).
 
 Material de apoio:
-[Link 1](https://example.com);
-[Link 2](https://example.com);
-[Link 3](https://example.com);
-...
+* [Link 1](https://example.com);
+* [Link 2](https://example.com);
+* [Link 3](https://example.com);
 
 <p>
   <img src="./cover.png" alt="imagem mostrando a capa do site de tecnologia">
