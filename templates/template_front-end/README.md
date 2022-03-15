@@ -14,10 +14,6 @@ Explicar que também haverá um desafio extra ou algo do tipo aqui.
 #### 2️⃣ Desafio - Texto do Desafio 2 (=\^-\^=)
 #### 3️⃣ Desafio - Texto do Desafio 3 (=\^-\^=)
 
-<p>
-
-</p>
-
 ### Material
 Você deverá utilizar o nosso [Design no Figma](https://figma.com/) para desenvolver a(s) página(s).
 
