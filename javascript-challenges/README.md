@@ -17,10 +17,6 @@ Desenvolva um programa que receba um valor de troco e depois com um loop consiga
 #### 3️⃣ Desafio - Leitura e conta (=\^-\^=)
 Desenvolva um programa que recebe uma ou mais frases e consiga calcular o número de letras, palavras e frases. <br>Ex: Frase: Lorem ipsum dolor sit amet, consetetur sadipscing elitr. <br><br>"Este parágrafo tem X letras, X palavras e X frases."
 
-<p>
-
-</p>
-
 ### Material
 Você deverá utilizar o nosso [Design no Figma](https://www.figma.com/file/nPRQtJqmENcS9eO46IwJo8/DesafioJS---Comunidade-Ballerini?node-id=0%3A1) para desenvolver a(s) página(s).
 
