@@ -2,7 +2,7 @@
 
 Oiee pessoal!!!!!
 
-Então, a cada semana uma votação para uma linguagem de programação é decidida por membros da nossa [comunidade do discord](https://discord.gg/pDbY76q8Qf). E com essa tech(linguagem de programação), decidimos colocar desafios para que os membros da comunidade possam desenvolver ao longo de duas semanas.
+Então, a cada semana uma votação para uma linguagem de programação é decidida por membros da nossa [comunidade do discord](https://discord.gg/wagxzStdcR). E com essa tech(linguagem de programação), decidimos colocar desafios para que os membros da comunidade possam desenvolver ao longo de duas semanas.
 
 O intuito dos desafios é fazer com que os membros experimentem novas linguagens de programação, e dando desafios até para os que já programam na linguagem daquela tech. Assim como, fazer com eles desenvolvam projetos para poderem utilizar como portfólio no futuro.
 
